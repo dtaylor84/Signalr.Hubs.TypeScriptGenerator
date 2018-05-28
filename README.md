@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/uwhg9nwo62kx2fif?svg=true)](https://ci.appveyor.com/project/cjbhaines/signalr-hubs-typescriptgenerator)
+**Forked from [geniussportsgroup/SignalrTypeScriptGenerator](https://github.com/geniussportsgroup/Signalr.Hubs.TypeScriptGenerator) to update to SignalR 2.2.3.**
 
 # Signalr.Hubs.TypeScriptGenerator
 Utility library for generating typescript definitions for Signalr Hubs. This is a fork 

@@ -2,13 +2,13 @@
 <package >
 	<metadata>
 		<id>Signalr.Hubs.TypeScriptGenerator</id>
-		<version>$version$</version>
+		<version>$version$-mdl3</version>
 		<title>Signalr TypeScript Hub Generator</title>
-		<authors>Genius Sports</authors>
-		<owners>Genius Sports</owners>
-		<projectUrl>https://github.com/geniussportsgroup/Signalr.Hubs.TypeScriptGenerator</projectUrl>
+		<authors>MDL</authors>
+		<owners>MDL</owners>
+		<projectUrl>https://github.com/dtaylor84/Signalr.Hubs.TypeScriptGenerator</projectUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<description>Utility library for generating TypeScript hub definitions for a Signalr assembly.</description>
+		<description>Utility library for generating TypeScript hub definitions for a Signalr assembly. [MDL FORK]</description>
 		<tags>typescript signalr hubs</tags>
 	</metadata>
 	<files>
