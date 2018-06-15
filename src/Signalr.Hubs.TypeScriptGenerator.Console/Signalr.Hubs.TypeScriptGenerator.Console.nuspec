@@ -2,7 +2,7 @@
 <package >
 	<metadata>
 		<id>Signalr.Hubs.TypeScriptGenerator.Console</id>
-		<version>$version$-mdl3</version>
+		<version>$version$-mdl4</version>
 		<title>Signalr TypeScript Hub Generator</title>
 		<authors>MDL</authors>
 		<owners>MDL</owners>
